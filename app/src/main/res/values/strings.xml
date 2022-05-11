@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Estaus de calificacion</string>
+    <string name="txt_view_string">Estatus del alumno</string>
+    <string name="txt_matematicas_string">Matemàtica</string>
+    <string name="txt_fisica_string">Fisica</string>
+    <string name="txt_naturales_string">Naturales</string>
+    <string name="txt_calcular_string">Calcular</string>
+</resources>
